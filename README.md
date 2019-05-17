@@ -22,3 +22,5 @@ git svn clone http://source.heuristics.net:81/svn/hs_products/learningbuilder_In
 4. Modify the final path of the command to be the directory/git repo that you want to create.
 
 This step might take *weeks* to complete, depending on the history in the repo.
+
+Commands for `git svn` can be found here - https://git-scm.com/docs/git-svn
