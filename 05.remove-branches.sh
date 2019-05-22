@@ -1,3 +1,6 @@
+# NOW THAT ALL OF THE REMOTE BRANCHES WERE DUPLICATED AS LOCAL BRANCHES, WE 
+# CAN DELETE THE REMOTE VERSION OF THE BRANCH.
+
 for t in `git branch -r` ; do
   git branch -d -r $t
 done
