@@ -1,0 +1,1 @@
+git branch -a > ./list_of_branches_for_deletion.txt
